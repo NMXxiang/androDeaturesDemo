@@ -12,7 +12,7 @@ Intents:意图方面组件及功能
 
 例子:
 
-\\ 这个指queries标签是manifest标签的子标签
+<!-- 这个指queries标签是manifest标签的子标签 -->
 
 ```
 <manifest> 
