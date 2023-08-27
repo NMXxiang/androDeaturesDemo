@@ -4,6 +4,8 @@
 
 - intentFilter:_intent过滤器，配置一个发送文本数据并接收其他 Activity 的文本数据发送请求的 Activity_
 
+- ForceApplicationSelector:隐式跳转但强制使用选择器(适用于分享文件场景)
+
 
 
 

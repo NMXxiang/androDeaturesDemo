@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 // 获取资源的字符串
                 String title = getResources().getString(R.string.app_name);
 
-                // 创建意图并设置对话框名称
+                // 创建意图
                 Intent chooser = Intent.createChooser(sendIntent, title);
                 try {
                     startActivity(chooser);
